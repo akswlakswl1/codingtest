@@ -1,3 +1,5 @@
+# sys.setrecursionlimit(10**6)  # 재귀 한도 설정
+
 import sys
 sys.setrecursionlimit(10**6)
 input = sys.stdin.readline
